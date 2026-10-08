@@ -2602,6 +2602,18 @@ body.light .project-card {
 
 }
 
+.storyboard-project video {
+
+    display: block;
+
+    width: 100%;
+
+    height: auto;
+
+    object-fit: cover;
+
+}
+
 
 
 /* ==================================================
